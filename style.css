@@ -1,26 +1,6 @@
-
-img {
-    width: 10%;
-    height: auto;
-    padding-left: 1200px;
-    
+.hero{
+  background: black url(background.jpg) center/cover ;
 }
-
-  body {
-    background-image: url(background.jpg);
-    width: 100%;
-    height: auto;
-    background-repeat: no-repeat;
-      background-size: 100%  ;
-    }
-h1 {
-    color: white;
-    padding-left: 1050px;
-    font-family: 'Poppins', sans-serif;
-    }
-h2 {
-    color: white;
-    padding-left: 1220px;
-    font-family: 'Poppins', sans-serif;
-    
+body{
+  font-family: 'Poppins', sans-serif;
 }
